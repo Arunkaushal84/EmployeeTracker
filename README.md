@@ -30,7 +30,7 @@ This program is designed to view and update  company employee's information like
 
 ## Preview
 
-![EER diagram](https://github.com/Amritpal-Kaur0/Employee_Tracker/assets/128442182/e75acc6b-a296-4983-83f6-80333f6610b4)
+
 
 
 ## Technologies Used
@@ -44,27 +44,16 @@ This program is designed to view and update  company employee's information like
 * Visual Studio Code
 
 
-## Contributing
- Amrit
+## Process
 
- New Contributions to this project are welcome. To contribute, please follow these steps:
+ Fork the repository.
+ Create a new branch.
+ Make your changes and commit them.
+ Push your changes to your forked repository.
+ Submit a pull request with a detailed description of your changes.
 
- 👉 Fork the repository.
- 👉 Create a new branch.
- 👉 Make your changes and commit them.
- 👉 Push your changes to your forked repository.
- 👉 Submit a pull request with a detailed description of your changes.
-
-
-## Testing
-test video - https://drive.google.com/file/d/1qGYmGoRSwGeBmYEJTybjKAMeEhP9JoUP/view
 
 
 ## License
 This project is licensed under the MIT license. For more information about the license, go to [License](https://choosealicense.com/licenses/mit/).
 
-## Questions
- If you have encounter any issues or have any Questions Regarding this Project. Connect with me at
-
-- Email -Amrit.gill3005@gmail.com 
-- Github - [Amritpal-Kaur0](https://github.com/Amritpal-Kaur0) 
